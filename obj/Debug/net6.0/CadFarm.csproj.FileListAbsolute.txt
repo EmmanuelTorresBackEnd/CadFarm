@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\CadFarm\bin\Debug\net6.0\CadFarm.exe
+C:\Users\Administrator\Desktop\CadFarm\bin\Debug\net6.0\CadFarm.deps.json
+C:\Users\Administrator\Desktop\CadFarm\bin\Debug\net6.0\CadFarm.runtimeconfig.json
+C:\Users\Administrator\Desktop\CadFarm\bin\Debug\net6.0\CadFarm.dll
+C:\Users\Administrator\Desktop\CadFarm\bin\Debug\net6.0\CadFarm.pdb
+C:\Users\Administrator\Desktop\CadFarm\obj\Debug\net6.0\CadFarm.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CadFarm\obj\Debug\net6.0\CadFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CadFarm\obj\Debug\net6.0\CadFarm.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CadFarm\obj\Debug\net6.0\CadFarm.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CadFarm\obj\Debug\net6.0\CadFarm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CadFarm\obj\Debug\net6.0\CadFarm.dll
+C:\Users\Administrator\Desktop\CadFarm\obj\Debug\net6.0\refint\CadFarm.dll
+C:\Users\Administrator\Desktop\CadFarm\obj\Debug\net6.0\CadFarm.pdb
+C:\Users\Administrator\Desktop\CadFarm\obj\Debug\net6.0\CadFarm.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CadFarm\obj\Debug\net6.0\ref\CadFarm.dll
