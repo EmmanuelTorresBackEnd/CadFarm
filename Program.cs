@@ -73,14 +73,21 @@ class Program
                 listaMed.Add(NovoMed);
 
 
+                using (StreamWriter sw = new StreamWriter($"{NovoMed.NomeMed}.txt"))
+                {
+                     sw.Write($"Nome: {NovoMed.NomeMed}, Id: {NovoMed.idMed}, Descrição: {NovoMed.DescricaoMed} , Valor: {NovoMed.ValorMed}");
+                }
+
+                using (StreamReader sr = new StreamReader($"{NovoMed.NomeMed}.txt"))
+                {
                     break;
+                }
 
                 case "2":
 
                 foreach (medicamento CadaItem in listaMed)
                 {
                     Console.Write($"Nome: {CadaItem.NomeMed}, Id: {CadaItem.idMed}, Descrição do Medicamento: {CadaItem.DescricaoMed}, Valor do Medicamento: {CadaItem.ValorMed} ");
-                    
                 }
 
                     break;
@@ -129,36 +136,7 @@ class Program
             
             } while (Opcao != "0");
 
-            
-                
-                
-
-
-
-            
-            
-
-
-}
-            
-
-            // medicamento med = new medicamento();
-            // loteFab lf = new loteFab();
-
-            // med.NomeMed = "Dipirona";
-            // med.idMed = "1";
-            // med.MedicamentoDisponivel = true;
-            // med.DescricaoMed = "para dor de cabeça";
-
-            // Console.WriteLine($"Nome: {med.NomeMed}, Descrição: {med.DescricaoMed}");
-
-            // lf.dataFab = new DateTime (2021, 02, 15);
-            // lf.lote = 0001;
-
-            // Console.WriteLine($"Data de Fabricação: {lf.dataFab}, Lote: {lf.lote}");
-            
-            
-            
-            
         }
+            
+    }
     
